@@ -3,9 +3,9 @@
 Computer Science student at King Faisal University with a strong interest in Artificial Intelligence, Computer Vision, and IoT systems.
 
 ## Skills
-- Programming: Python, Java, C++, JavaScript, SQL  
+- Programming: Python, Java, C++, TypeScript, SQL
 - AI & Data: Machine Learning, Computer Vision, YOLO, Pandas, Scikit-learn  
-- Web: HTML, CSS, JavaScript  
+- Web: React, TypeScript, HTML, CSS, Tailwind CSS 
 - Tools: Git, Raspberry Pi  
 
 ## Projects
